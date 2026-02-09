@@ -1,6 +1,6 @@
-# TaskFlow
+# Michihiki
 
-TaskFlow is a small web service I operate as a hands-on DevOps training environment.
+Michihiki is a small web service I operate as a hands-on DevOps training environment.
 
 The goal of this repository is to demonstrate operational competence: deploying, maintaining, monitoring, and recovering a live service.
 
@@ -19,7 +19,7 @@ The application itself is intentionally simple. The focus of this project is sys
 
 ## System Overview
 
-TaskFlow is a minimal task-tracking web application used as a controlled production-style environment.
+Michihiki is a minimal task-tracking web application used as a controlled production-style environment.
 
 It serves as a platform for operating a complete service stack, including:
 
