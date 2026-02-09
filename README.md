@@ -54,5 +54,6 @@ Used to verify the execution environment during setup and troubleshooting.
 **Usage**
 ```bash
 python3 scripts/hello_system.py
+```
 
 
