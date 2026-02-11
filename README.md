@@ -70,3 +70,14 @@ Displays:
 ```bash
 python3 scripts/disk_checker.py
 ```
+
+### process_lister.py
+
+Reports the top 10 processes in order of memory usage.
+
+For each process it displays PID, name, and memory usage in MB.
+
+**Usage**
+```bash
+python3 scripts/process_lister.py
+```
